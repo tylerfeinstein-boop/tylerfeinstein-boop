@@ -61,7 +61,7 @@ implementations behind shared interfaces, with dedicated error types and
 cooperative cancellation for playback.
 
 **Castle Fling** — *JavaScript · Electron · Android*
-A physics castle-defence game shipped to Google Play closed testing. One source
+A physics castle-defence game shipped to Google Play production. One source
 tree packaged for the browser, a Windows portable executable, and a native
 Android WebView wrapper, with asset validation wired into the build.
 
