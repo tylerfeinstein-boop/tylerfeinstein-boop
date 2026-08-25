@@ -41,11 +41,16 @@ delivering a PWA, an Android app and a Windows desktop build. PostgreSQL with
 row-level security and Supabase Edge Functions. **365 automated tests.**
 *In production use — office staff, field crews and installers.*
 
-**Castle Fling** — *JavaScript · Electron · Android*
-A physics castle-defence game, **released to production on Google Play**. One
-source tree packaged for the browser, a Windows portable executable and a native
-Android WebView wrapper, with asset validation wired into the build. Went through
-closed testing, open testing and full production review.
+**Castle Fling** — *JavaScript · Java · Electron · Capacitor*
+[**Live on Google Play**](https://play.google.com/store/apps/details?id=com.emptyhelmetgames.castlefling) —
+a physics castle-defence game, through closed testing, open testing and full
+production review. One source tree packaged for the browser, a Windows portable
+executable and an Android app, with asset validation wired into the build.
+
+The Android side is not just a WebView: it carries three hand-written Java
+sources — a Google Mobile Ads plugin with network-state handling, a Google Play
+Billing plugin covering the full purchase, acknowledge and consume flow, and a
+host activity with edge-to-edge insets and renderer-crash recovery.
 
 ---
 
