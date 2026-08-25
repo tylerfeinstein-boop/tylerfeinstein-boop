@@ -87,7 +87,7 @@ project, and finished.
 ### Technical stack
 
 **Languages**
-Python · TypeScript · JavaScript · Rust · SQL · C#
+Python · TypeScript · JavaScript · Rust · Java · SQL · C#
 
 **Frontend**
 React · Vite · Tailwind CSS · Progressive Web Apps
@@ -109,8 +109,8 @@ Tauri · Electron · Capacitor · Android (Gradle)
 Unity · Godot · Blender (`bpy`) scripting
 
 **Practice**
-Git · unit and integration testing (Vitest, `node:test`) · ESLint · Prettier ·
-Architecture Decision Records
+Git · GitHub Actions CI · unit and integration testing (Vitest, `node:test`) ·
+ESLint · Prettier · Architecture Decision Records
 
 ---
 
@@ -130,8 +130,8 @@ decided what needed proving, and they pass because I fixed what they caught.
 
 Deepening my software engineering fundamentals through the IBM Full Stack
 Software Developer certificate, and building data science capability through the
-IBM Data Science certificate. Alongside that: adding CI pipelines to my existing
-projects and getting more of my work publicly reachable.
+IBM Data Science certificate. Alongside that: getting more of my work deployed
+and publicly reachable.
 
 Open to remote roles in full-stack development, Python development, and AI
 application and automation engineering.
