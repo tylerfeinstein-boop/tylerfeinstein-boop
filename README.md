@@ -1,16 +1,20 @@
 ## Tyler Feinstein
 
-**Full-Stack & AI Automation Developer**
+**Director of Operations · Full-Stack & AI Automation Developer**
 
-I build software that runs real business operations. Most of my work starts the
-same way: a process people are doing by hand, badly, at scale — and ends as a
-system with a database behind it, tests around it, and an interface someone
-actually uses on a job site.
+I run operations for a countertop and cabinetry company — and I build the
+software that company runs on. That combination is the whole point: I am the one
+in the room when a process breaks, so I do not have to guess at requirements. I
+watch the failure happen, then go build the thing that fixes it.
 
-Two of those have shipped. A field-operations platform that a kitchen remodeling
-company now runs its jobs on, and a game released on Google Play. Alongside them:
-an AI orchestration service in active development, a desktop tool in Rust, and an
-asset build pipeline in Python.
+Most of my work starts the same way — a process people are doing by hand, badly,
+at scale — and ends as a system with a database behind it, tests around it, and
+an interface someone actually uses on a job site.
+
+Three of those are live at my employer today: the field operations platform the
+business schedules and measures jobs on, the company's public website, and an AI
+orchestration service in active development. Outside work: a game released on
+Google Play, a desktop tool in Rust, and an asset build pipeline in Python.
 
 Currently expanding my formal training through the IBM Full Stack Software
 Developer and IBM Data Science professional certificate programs.
@@ -39,7 +43,13 @@ projects, scheduling with route zones, site measures, a sketch pad that exports
 CAD-ready DXF, document packets and time-limited client sharing. One codebase
 delivering a PWA, an Android app and a Windows desktop build. PostgreSQL with
 row-level security and Supabase Edge Functions. **365 automated tests.**
-*In production use — office staff, field crews and installers.*
+*Built for my employer and in production use — office staff, field crews and
+installers.*
+
+**[progranitellc.com](https://progranitellc.com)** — *WordPress*
+The company's public site: service pages, project gallery, testimonials,
+quote-request forms with customer photo upload, and showroom booking. Built and
+maintained by me, served over HTTPS behind Cloudflare.
 
 **[Castle Fling](https://github.com/tylerfeinstein-boop/castle-fling)** — *JavaScript · Java · Electron · Capacitor*
 [**Live on Google Play**](https://play.google.com/store/apps/details?id=com.emptyhelmetgames.castlefling) —
@@ -90,7 +100,7 @@ project, and finished.
 Python · TypeScript · JavaScript · Rust · Java · SQL · C#
 
 **Frontend**
-React · Vite · Tailwind CSS · Progressive Web Apps
+React · Vite · Tailwind CSS · Progressive Web Apps · WordPress
 
 **Backend**
 Node.js · Fastify · Supabase Edge Functions (Deno) · REST APIs · Zod
@@ -130,8 +140,8 @@ decided what needed proving, and they pass because I fixed what they caught.
 
 Deepening my software engineering fundamentals through the IBM Full Stack
 Software Developer certificate, and building data science capability through the
-IBM Data Science certificate. Alongside that: getting more of my work deployed
-and publicly reachable.
+IBM Data Science certificate. Alongside that: getting a deployed, clickable
+build of my own code online, and screenshots into the repositories above.
 
 Open to remote roles in full-stack development, Python development, and AI
 application and automation engineering.
