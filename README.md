@@ -33,7 +33,7 @@ Developer and IBM Data Science professional certificate programs.
 
 ### Shipped
 
-**Project Hub** — *JavaScript · Supabase · Capacitor · Electron*
+**[Project Hub](https://github.com/tylerfeinstein-boop/project-hub)** — *JavaScript · Supabase · Capacitor · Electron*
 Field operations software for a countertop and cabinet remodeling company:
 projects, scheduling with route zones, site measures, a sketch pad that exports
 CAD-ready DXF, document packets and time-limited client sharing. One codebase
@@ -41,7 +41,7 @@ delivering a PWA, an Android app and a Windows desktop build. PostgreSQL with
 row-level security and Supabase Edge Functions. **365 automated tests.**
 *In production use — office staff, field crews and installers.*
 
-**Castle Fling** — *JavaScript · Java · Electron · Capacitor*
+**[Castle Fling](https://github.com/tylerfeinstein-boop/castle-fling)** — *JavaScript · Java · Electron · Capacitor*
 [**Live on Google Play**](https://play.google.com/store/apps/details?id=com.emptyhelmetgames.castlefling) —
 a physics castle-defence game, through closed testing, open testing and full
 production review. One source tree packaged for the browser, a Windows portable
@@ -56,7 +56,7 @@ host activity with edge-to-edge insets and renderer-crash recovery.
 
 ### In development
 
-**Pro Granite AI Brain** — *TypeScript · Fastify · PostgreSQL/Supabase · Claude*
+**[Pro Granite AI Brain](https://github.com/tylerfeinstein-boop/pro-granite-ai-brain)** — *TypeScript · Fastify · PostgreSQL/Supabase · Claude*
 A central intelligence and orchestration layer for the same business. Ingests
 phone calls, resolves callers against existing customer records, and coordinates
 specialised agents. The interesting part is identity resolution: deciding whether
@@ -68,14 +68,14 @@ Architecture Decision Records.
 
 ### Also
 
-**Silly Valley's Auto Clicker** — *Rust · Tauri · React · TypeScript*
+**[Silly Valley's Auto Clicker](https://github.com/tylerfeinstein-boop/silly-valleys-auto-clicker)** — *Rust · Tauri · React · TypeScript*
 A Windows desktop tool with a visual click-sequence builder, global hotkeys and
 an overlay HUD. The Rust side separates `input`, `display` and `recording` into
 per-platform implementations behind shared interfaces, with dedicated error types
 and cooperative cancellation for playback. Built for a friend, delivered, and
 complete.
 
-**Blender Asset Pipeline** — *Python*
+**[Blender Asset Pipeline](https://github.com/tylerfeinstein-boop/blender-asset-pipeline)** — *Python*
 A staged, headless pipeline that builds game-ready 3D characters and props
 procedurally — geometry, UVs, textures, rigging, an eighteen-action animation
 set, LODs, export and automated verification. ~38,000 lines across 94 stages.
